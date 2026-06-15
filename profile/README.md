@@ -36,3 +36,7 @@ The work here is not only to publish conclusions, but to show how questions beco
 - [human-subjects-research-for-ai-systems](https://github.com/fieldlight-institute/human-subjects-research-for-ai-systems)
 - [governance-protocols](https://github.com/fieldlight-institute/governance-protocols)
 - [field-notes](https://github.com/fieldlight-institute/field-notes)
+
+## Copyright And Use
+
+Fieldlight Institute materials are public for reading and citation, but they are not open-licensed by default. See repository-level copyright notices for permissions.
