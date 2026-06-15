@@ -6,6 +6,8 @@ We study the systems that make advanced AI possible, and the human systems trans
 
 Fieldlight is being built in public. This GitHub organization is the working surface for its research programs, protocols, field notes, publications, and institutional artifacts.
 
+Contact: [institute@fieldlight.com](mailto:institute@fieldlight.com)
+
 ## Research Pillars
 
 ### Intelligence Infrastructure
