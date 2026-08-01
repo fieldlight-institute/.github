@@ -2,7 +2,7 @@
 
 Fieldlight Institute is an independent research initiative focused on intelligence infrastructure, consciousness research, and governance for AI-mediated human systems.
 
-The Institute's canonical public home is [fieldlight.com/institute](https://fieldlight.com/institute/).
+The Institute's canonical public home is [fieldlight.com](https://fieldlight.com/).
 
 We study the systems that make advanced AI possible, and the human systems transformed by their deployment: compute, energy, land, water, memory, identity, consent, continuity, and institutional power.
 
@@ -32,6 +32,7 @@ The work here is not only to publish conclusions, but to show how questions beco
 
 ## Public Repositories
 
+- [fieldlight.com](https://github.com/fieldlight-institute/fieldlight.com) — the Institute's public reading and institutional surface
 - [institute-charter](https://github.com/fieldlight-institute/institute-charter)
 - [intelligence-infrastructure](https://github.com/fieldlight-institute/intelligence-infrastructure)
 - [consciousness-research-program](https://github.com/fieldlight-institute/consciousness-research-program)
